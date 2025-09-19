@@ -12,7 +12,7 @@ mock_transactions = [
     [50, 120, 180, 240],
     [50, 120, 180, 240],
     [50, 120, 180, 240],
-  ],
+]
 
 mock_profile_config = {
     "headers": [
